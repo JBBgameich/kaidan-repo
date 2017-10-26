@@ -2,7 +2,7 @@ Origin: Kaidan
 Label: Kaidan
 Suite: unstable
 Codename: sid
-Date: Thu, 26 Oct 2017 04:25:15 UTC
+Date: Thu, 26 Oct 2017 11:05:37 UTC
 Architectures: armhf amd64 i386
 Components: main
 Description: Kaidan stable builds
@@ -16,8 +16,8 @@ MD5Sum:
  d4140b8dcf9e28a590ce60e273b0a831 831 main/binary-i386/Packages
  99ab4b2edac4f03894c8cd80f4abe613 566 main/binary-i386/Packages.gz
  0357adf6465b71d4a4786b225f5333d4 116 main/binary-i386/Release
- 5cebae1daafbb3adcf63daea3dfc38c8 4712 main/source/Sources
- 28c9f37b5dc71e73b692f852a5c02ee7 1921 main/source/Sources.gz
+ 177174bbe611eee7d6239c6e58583569 2814 main/source/Sources
+ e38146672c99a1fa16a2a566ec237f34 1261 main/source/Sources.gz
  36512006f778053a9319380d1636f4ff 118 main/source/Release
 SHA1:
  e61132dcc0bb3d56f997ff8ded72d9cd9d5c10f0 831 main/binary-armhf/Packages
@@ -29,8 +29,8 @@ SHA1:
  e61132dcc0bb3d56f997ff8ded72d9cd9d5c10f0 831 main/binary-i386/Packages
  f3b1b632253ab9b9ef26ba776a38c152a5ef5f14 566 main/binary-i386/Packages.gz
  1fc3ccc575ef351f4f0da5e7fc85da99aec52d90 116 main/binary-i386/Release
- eab8c90b75c20a9017f55b7ae50bb9d3f0e05fc3 4712 main/source/Sources
- dfc345142c25417d87b09c28450cce473ea6fa41 1921 main/source/Sources.gz
+ 8cafd8aac732f5ed50a110a165cdd115cf560a95 2814 main/source/Sources
+ 08aea511fec527ec94d54aaadc119ad67fb328a4 1261 main/source/Sources.gz
  0d328aa63b73374d4abd6ebfec0bcad5f3c7685c 118 main/source/Release
 SHA256:
  cbb79fd67992a4003582697434ebaf09581b9e9180d779aa07c3e1817552a8fa 831 main/binary-armhf/Packages
@@ -42,6 +42,6 @@ SHA256:
  cbb79fd67992a4003582697434ebaf09581b9e9180d779aa07c3e1817552a8fa 831 main/binary-i386/Packages
  7d66f06f67128e78d99e3bbfa9eaf7193761dd3343a4f212dbe5380dc5cfc7ce 566 main/binary-i386/Packages.gz
  37b6c0add24d6cd1606addbab1fc13b6c766ef41c2b8a4174e89792da6ef8930 116 main/binary-i386/Release
- 2cbfe94471a3170724c36f8b14f2af9a862025dae495979dcb9a10d011e468c0 4712 main/source/Sources
- 942189ef7d011e89829144e9a6d59f3cc2d0481ffe180c3fbb8a509271cccd21 1921 main/source/Sources.gz
+ af16a15428bec9b35ccc849fc0ca8b287690a713f865da5be5e08dfd22be1589 2814 main/source/Sources
+ cacefff21cf80f6dda33e26ea191e289aa632ca4f7e262b81c316119b69f29d0 1261 main/source/Sources.gz
  bb8315d2c0176aa25000b2773f56ffcd47e15db6ce9e51057ee374c4c31d1fc7 118 main/source/Release
