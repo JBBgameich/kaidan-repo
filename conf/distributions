@@ -1,0 +1,17 @@
+Origin: Kaidan
+Label: Kaidan
+Codename: stretch
+Suite: stable
+Architectures: armhf amd64 i386 source
+Components: main
+Description: Kaidan stable builds
+SignWith: C3D7CAFBF442353F95F69F4AA81E075ABEC80A7E
+
+Origin: Kaidan
+Label: Kaidan
+Codename: sid
+Suite: unstable
+Architectures: armhf amd64 i386 source
+Components: main
+Description: Kaidan stable builds
+SignWith: C3D7CAFBF442353F95F69F4AA81E075ABEC80A7E

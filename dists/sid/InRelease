@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Kaidan
+Label: Kaidan
+Suite: unstable
+Codename: sid
+Date: Thu, 26 Oct 2017 04:25:15 UTC
+Architectures: armhf amd64 i386
+Components: main
+Description: Kaidan stable builds
+MD5Sum:
+ d4140b8dcf9e28a590ce60e273b0a831 831 main/binary-armhf/Packages
+ 99ab4b2edac4f03894c8cd80f4abe613 566 main/binary-armhf/Packages.gz
+ 91a2fb77255abab3e70a7c60aa9653fa 117 main/binary-armhf/Release
+ e655eaf6017aa85f0e2b9c007e673f81 3603 main/binary-amd64/Packages
+ 45ffa2993f132089c952f0e8f7b1f5b2 1172 main/binary-amd64/Packages.gz
+ af9fc2b20d5ddf01bbd73a830dab25d9 117 main/binary-amd64/Release
+ d4140b8dcf9e28a590ce60e273b0a831 831 main/binary-i386/Packages
+ 99ab4b2edac4f03894c8cd80f4abe613 566 main/binary-i386/Packages.gz
+ 0357adf6465b71d4a4786b225f5333d4 116 main/binary-i386/Release
+ 5cebae1daafbb3adcf63daea3dfc38c8 4712 main/source/Sources
+ 28c9f37b5dc71e73b692f852a5c02ee7 1921 main/source/Sources.gz
+ 36512006f778053a9319380d1636f4ff 118 main/source/Release
+SHA1:
+ e61132dcc0bb3d56f997ff8ded72d9cd9d5c10f0 831 main/binary-armhf/Packages
+ f3b1b632253ab9b9ef26ba776a38c152a5ef5f14 566 main/binary-armhf/Packages.gz
+ 09151ee4524bb9684211d6c90ab447240b397e9c 117 main/binary-armhf/Release
+ e9470a5d84e1883834e70e561424bded538ac03f 3603 main/binary-amd64/Packages
+ c2c98e41ee199a14d6efcf9ab5ec86f30970ba34 1172 main/binary-amd64/Packages.gz
+ 92ed5086c171a1afe7dfa2268f3b6a52c6a2684f 117 main/binary-amd64/Release
+ e61132dcc0bb3d56f997ff8ded72d9cd9d5c10f0 831 main/binary-i386/Packages
+ f3b1b632253ab9b9ef26ba776a38c152a5ef5f14 566 main/binary-i386/Packages.gz
+ 1fc3ccc575ef351f4f0da5e7fc85da99aec52d90 116 main/binary-i386/Release
+ eab8c90b75c20a9017f55b7ae50bb9d3f0e05fc3 4712 main/source/Sources
+ dfc345142c25417d87b09c28450cce473ea6fa41 1921 main/source/Sources.gz
+ 0d328aa63b73374d4abd6ebfec0bcad5f3c7685c 118 main/source/Release
+SHA256:
+ cbb79fd67992a4003582697434ebaf09581b9e9180d779aa07c3e1817552a8fa 831 main/binary-armhf/Packages
+ 7d66f06f67128e78d99e3bbfa9eaf7193761dd3343a4f212dbe5380dc5cfc7ce 566 main/binary-armhf/Packages.gz
+ b5c77ddd3079bc092b1851f8802fda785ef59bc2b7afd49d5c56777d1529956e 117 main/binary-armhf/Release
+ 589c6fed3d93eb88cca0d353d4ed50ff24c3f8536e3dc4c1ce7daddded8a9a8c 3603 main/binary-amd64/Packages
+ 01aa30b130723f159d488cd3ddb6a271cd36fca1afffbd4a82d68ca0ed7befca 1172 main/binary-amd64/Packages.gz
+ a93199c2e08b2c3deb07ba05ec098e1671e126b6548a0196acc8de806fa70f3d 117 main/binary-amd64/Release
+ cbb79fd67992a4003582697434ebaf09581b9e9180d779aa07c3e1817552a8fa 831 main/binary-i386/Packages
+ 7d66f06f67128e78d99e3bbfa9eaf7193761dd3343a4f212dbe5380dc5cfc7ce 566 main/binary-i386/Packages.gz
+ 37b6c0add24d6cd1606addbab1fc13b6c766ef41c2b8a4174e89792da6ef8930 116 main/binary-i386/Release
+ 2cbfe94471a3170724c36f8b14f2af9a862025dae495979dcb9a10d011e468c0 4712 main/source/Sources
+ 942189ef7d011e89829144e9a6d59f3cc2d0481ffe180c3fbb8a509271cccd21 1921 main/source/Sources.gz
+ bb8315d2c0176aa25000b2773f56ffcd47e15db6ce9e51057ee374c4c31d1fc7 118 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEw9fK+/RCNT+V9p9KqB4HWr7ICn4FAlnxY6sACgkQqB4HWr7I
+Cn5hmg//cL1RZWxaZjKju6LyfpEqMXql1r/mdXdLepVD2GoGMcN7mYS4Xp3HgJp3
++w81Z/FK+K5dIPBnj1Tp7Jx+Q5HNOaRgXdWZiBpxGrrcJFf0yj+WMN/VbgW0UKuw
+3gIEh4BzIlv5EOFnH1H+a0PR44FkKctXjsqYsadED89YW0I6GVu2c416+DjOroCi
+r8nczzv2SeyOI7CJD4VZIrt3vrkGSULXZ52Wjm31glWw6Hx9BmZ50Th3U8e/nyR6
+tcD34oWOL4smvWXpsdblXks0Vw7YmdsguA7amiWXj0lk1xPFOML8WObpiVSNvZ0U
+itjNTkX0Cv+JqGIafcEG1A5eoEdpV4xeFUQhsyFqwqzjk4QEw9qRZLr9pEeS/p5I
+uApuUMn72NfkadXoB04yosxuYXAp68bgjwAwcapV10yQj4weeuTgvh9MA9lLv/OO
+KiG8yK1H2FPUU8037KSvWdMBOa9yhlBtmtdOim1cfGb1hLHM32ubGc8HBIpSV4w6
+SiUcVfZBIm25M5BX99zvqp8WgnCbtwGXgC1AkMdOL4bMX5jBi6ikB+Y0NnLzSIYx
+zFFtVGr95aUTj8hyTgEfqqzDFmMxmnuGQZr/R88/tiUiuUTjc4AX0f2Oc9Sk9XAp
+RcJ2P4kHpAoS3kPiy1gj9VozBTJJ27L87m8PczUC7h+NgKaSit0=
+=b+5O
+-----END PGP SIGNATURE-----
